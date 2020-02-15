@@ -1,6 +1,6 @@
 
 ---
-title: Events
+title: Futurevents
 displaytext: Chapter Events
 layout: null
 tab: true
