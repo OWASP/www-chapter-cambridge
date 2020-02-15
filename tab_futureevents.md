@@ -1,4 +1,3 @@
-
 ---
 title: Futurevents
 displaytext: Chapter Events
