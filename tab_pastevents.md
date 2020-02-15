@@ -1,10 +1,10 @@
 ---
 title: pastevents
-displaytext: Past Cambridge Chapter Events
+displaytext: Previous Chapter Events
 layout: null
 tab: true
 tags: cambridge
-order: 1
+order: 2
 ---
 
 
