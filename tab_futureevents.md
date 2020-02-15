@@ -10,7 +10,7 @@ order: 1
 ## Upcoming Events
 
 | Date | Time | Description |
-| :------ | :-----:  | :----------: | :------------- |
+| :------ | :----------: | :------------- |
 | Wed 19th Feb | 1300 -
                  1730 | [OWASP Cambridge & BCS Cybercrime Forensics SG “Aspects of Digital Forensics” Workshop](https://www.meetup.com/OWASP-Cambridge-Meetup/events/268594250/) |
 | Thu 5th Mar | 1700 -
