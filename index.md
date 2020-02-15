@@ -2,8 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Cambridge
-tags: cambridge, uk
-level: 0
+tags: cambridge
 
 region: Europe
 
