@@ -39,7 +39,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 # Past Events
 
 | Date               | Name / Title                                                                           | Link                 |
-| :--------- ------- | :------------------------------------------------------------------------------------: | -------------------: |
+| :----------------- | :------------------------------------------------------------------------------------: | -------------------: |
 | 5 November 2019    | Andrea Scaduto                                                                         | [presentation](presentations/prev/RTF-OWASP-Cambridge.pdf ) |
 | 8 October 2019     | Dinis Cruz - Revolut                                                                   | [Presentation](https://www.slideshare.net/DinisCruz/using-owasp-security-bot-osbot-to-make-fact-based-security-decisions) |
 | 8 October 2019     | Jeff Williams - Contrast Security                                                      | [Presentation](https://contrastsecurity.app.box.com/s/w2pv7cb46r3guyob6i1xf0igne9g281g)  |
