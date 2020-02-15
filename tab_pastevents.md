@@ -3,7 +3,7 @@ title: pastevents
 displaytext: Past Cambridge Chapter Events
 layout: null
 tab: true
-order: 4
+order: 1
 ---
 
 # Past Events
