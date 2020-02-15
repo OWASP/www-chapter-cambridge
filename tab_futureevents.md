@@ -11,15 +11,11 @@ order: 1
 
 | Date | Time | Description |
 | :------ | :----------: | :------------- |
-| Wed 19th Feb | 1300 -
-                 1730 | [OWASP Cambridge & BCS Cybercrime Forensics SG “Aspects of Digital Forensics” Workshop](https://www.meetup.com/OWASP-Cambridge-Meetup/events/268594250/) |
-| Thu 5th Mar | 1700 -
-                2100 | Chapter meeting |
+| Wed 19th Feb | 1300- 1730 | [OWASP Cambridge & BCS Cybercrime Forensics SG “Aspects of Digital Forensics” Workshop](https://www.meetup.com/OWASP-Cambridge-Meetup/events/268594250/) |
+| Thu 5th Mar | 1700- 2100 | Chapter meeting |
 | Wed 11th Mar | pm | Dark Web Threat Hunting Workshop joint event (with BCS Cybercrime Forensics) |
-| Thu 2nd Apr | 1700 -
-                2100 | Chapter Meeting |
-| Tue 19th May | 1700 -
-                 2100 | Chapther Meeting - possibly CTF |
+| Thu 2nd Apr | 1700- 2100 | Chapter Meeting |
+| Tue 19th May | 1700- 2100 | Chapter Meeting - possibly CTF |
 
 ## How to find ARU
 
