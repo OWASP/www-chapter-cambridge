@@ -5,7 +5,7 @@ displaytext: Chapter Events
 layout: null
 tab: true
 tags: cambridge
-order: 1
+order: 2
 ---
 
 ## Upcoming Events
