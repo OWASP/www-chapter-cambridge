@@ -1,6 +1,6 @@
 
 ---
-title: Events
+title: events
 displaytext: Chapter Events
 layout: null
 tab: true
