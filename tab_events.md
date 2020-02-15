@@ -1,11 +1,11 @@
 
 ---
-title: events
+title: Events
 displaytext: Chapter Events
 layout: null
 tab: true
 tags: cambridge
-order: 2
+order: 1
 ---
 
 ## Upcoming Events
