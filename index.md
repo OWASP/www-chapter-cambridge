@@ -5,6 +5,9 @@ title: OWASP Cambridge
 tags: cambridge
 level: 4
 region: Europe
+meetup-group: OWASP-Cambridge-Meetup
+country: United Kingdom
+postal-code: 
 
 ---
 
