@@ -13,7 +13,7 @@ order: 2
 | Date               | Name / Title                                                              | Presentation Link |
 | :----------------- | :-----------------------------------------------------------------------: | -----------------: |
 | 2 February 2021    | Keith Cottenden                                                           | [presentation](presentations/prev/BCS_IoT_Presentation_-_Keith_Cottenden.pdf )  |
-| 7 January 2021     | Dr. Harjinder Singh Lallie                                                | [presentation](https://www.youtube.com/watch?v=dK5VrnXbjxQ)  |
+| 7 January 2021     | Dr. Harjinder Singh Lallie                                                | [presentation](https://www.youtube.com/watch?v=QMp3bZG-R8I)  |
 | 15 December 2020   | Stewart Garrick                                                           | [presentation]  |
 | 30 July 2020       | Deepinder Singh                                                           | [presentation](presentations/prev/2020_DBIR_OWASP-BCS-July_2020.pdf) |
 | 5 November 2019    | Andrea Scaduto                                                            | [presentation](presentations/prev/RTF-OWASP-Cambridge.pdf ) |
