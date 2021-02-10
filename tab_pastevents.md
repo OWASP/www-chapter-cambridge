@@ -12,10 +12,10 @@ order: 2
 
 | Date               | Name / Title                                                              | Presentation Link |
 | :----------------- | :-----------------------------------------------------------------------: | -----------------: |
-| 2 February 2021    | Keith Cottenden                                                           | [presentation](presentations/prev/BBCS IoT Presentation - Keith Cottenden.pdf )  |
+| 2 February 2021    | Keith Cottenden                                                           | [presentation](presentations/prev/BCS_IoT_Presentation_-_Keith_Cottenden.pdf )  |
 | 7 January 2021     | Dr. Harjinder Singh Lallie                                                | [presentation](https://www.youtube.com/watch?v=dK5VrnXbjxQ)  |
 | 15 December 2020   | Stewart Garrick                                                           | [presentation]  |
-| 30 July 2020       | Deepinder Singh                                                           | [presentation](presentations/prev/2020 DBIR OWASP-BCS-July 2020.pdf) |
+| 30 July 2020       | Deepinder Singh                                                           | [presentation](presentations/prev/2020_DBIR_OWASP-BCS-July_2020.pdf) |
 | 5 November 2019    | Andrea Scaduto                                                            | [presentation](presentations/prev/RTF-OWASP-Cambridge.pdf ) |
 | 8 October 2019     | Dinis Cruz - Revolut                                                      | [Presentation](https://www.slideshare.net/DinisCruz/using-owasp-security-bot-osbot-to-make-fact-based-security-decisions) |
 | 8 October 2019     | Jeff Williams - Contrast Security                                         | [Presentation](https://contrastsecurity.app.box.com/s/w2pv7cb46r3guyob6i1xf0igne9g281g)  |
