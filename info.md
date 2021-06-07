@@ -3,7 +3,7 @@
 * [Chapter Policy](https://owasp.org/www-policy/)
 * [Speaker Agreement](https://owasp.org/www-policy/)
 * [Code of Conduct](https://owasp.org/www-policy/)
-* 
+
 ### Social Links
 * [Twitter](https://twitter.com/owaspcambs)
 * [Meetup.com](https://www.meetup.com/OWASP-Cambridge-Meetup/)
