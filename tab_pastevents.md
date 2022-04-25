@@ -12,6 +12,7 @@ order: 2
 
 | Date               | Name / Title                                                              | Presentation Link |
 | :----------------- | :-----------------------------------------------------------------------: | -----------------: |
+| 2nd December 2021  | [A Workshop on Zero Trust and API Risk Management](https://www.meetup.com/OWASP-Cambridge-Meetup/events/282173561/) | |
 | 2 February 2021    | Keith Cottenden                                                           | [presentation](presentations/prev/BCS_IoT_Presentation_-_Keith_Cottenden.pdf )  |
 | 7 January 2021     | Dr. Harjinder Singh Lallie                                                | [presentation](https://www.youtube.com/watch?v=QMp3bZG-R8I)  |
 | 15 December 2020   | Stewart Garrick                                                           | [presentation]  |

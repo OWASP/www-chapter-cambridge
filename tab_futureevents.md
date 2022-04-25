@@ -13,7 +13,7 @@ order: 1
 
 | Date | Time | Description |
 | :------ | :----------: | :------------- |
-| 2nd December 2021 | 17:30 - 1900 UTC | [A Workshop on Zero Trust and API Risk Management](https://www.meetup.com/OWASP-Cambridge-Meetup/events/282173561/)
+|  |  | |
 
 
 The meetings are typically located at Anglia Ruskin Uni. There are some details on the meet up pages or see

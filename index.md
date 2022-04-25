@@ -1,13 +1,13 @@
 ---
 
 layout: col-sidebar
-title: OWASP Cambridge
-tags: cambridge
-level: 4
+title: OWASP Cambridge (UK)
+tags: cambridge, Cambridge, cam, uk
 region: Europe
 meetup-group: OWASP-Cambridge-Meetup
 country: United Kingdom
-postal-code: 
+postal-code: CB1 1PT
+
 
 ---
 
