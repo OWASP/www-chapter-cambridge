@@ -1,0 +1,32 @@
+community:
+  - name: chapter-cambridge
+    platform: slack
+    url: https://owasp.slack.com/archives/CDS0ZRL6Q
+    description: OWASP Cambridge Chapter Discussions
+leaders:
+  - name: Adrian Winckles
+    email: adrian.winckles@owasp.org
+    github: adrianwinckles
+  - name: Steven Van der Baan
+    email: steven.van.der.baan@owasp.org
+    github: vdbaan
+  - name: Ozhan Sisic
+    email: oz@owasp.org
+location:
+  country: United Kingdom
+  country_code: GB
+  region: England
+  city: Cambridge
+  latitude: 52.2055314
+  longitude: 0.1186637
+meetup_group: OWASP-Cambridge-Meetup
+name: OWASP Cambridge
+repositories:
+  - name: www-chapter-cambridge
+    url: https://github.com/OWASP/www-chapter-cambridge
+    description: OWASP Foundation Web Repository
+tags:
+  - cambridge
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-cambridge
