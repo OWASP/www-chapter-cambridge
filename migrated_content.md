@@ -23,6 +23,8 @@ For updates, events, membership; please visit our meet up page:
 
 | Date               | Name / Title                                                                           | Link                                                                                                                                                         |
 | ------------------ | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 16 December 2025   | Siegfried Hollerer & Simon Rommer - OWASP OT Top 10               |  [Presentation]
+| 11 November 2025   | Veronica Schmitt - Every Contact Leaves a Log                     |  [Presentation](https://youtu.be/hLdGW_TZKYM?si=I_WQ7jNtpY4imgVx)  |
 | 5 November 2019    | Andrea Scaduto                                                                         | [presentation](/www-pdf-archive/RTF-OWASP-Cambridge.pdf )                                                                                                     |
 | 8 October 2019     | Dinis Cruz - Revolut                                                                   | [Presentation](https://www.slideshare.net/DinisCruz/using-owasp-security-bot-osbot-to-make-fact-based-security-decisions)                                    |
 | 8 October 2019     | Jeff Williams - Contrast Security                                                      | [Presentation](https://contrastsecurity.app.box.com/s/w2pv7cb46r3guyob6i1xf0igne9g281g)                                                                      |
