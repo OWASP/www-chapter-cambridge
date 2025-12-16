@@ -12,6 +12,8 @@ order: 2
 
 | Date               | Name / Title                                                              | Presentation Link |
 | :----------------- | :-----------------------------------------------------------------------: | -----------------: |
+| 16 December 2025   | Siegfried Hollerer & Simon Rommer - OWASP OT Top 10               |  [Presentation](presentations/2025-12-16-OWASP_OT_Top10-OWASP_Cambridge_Chapter.pdf) |
+| 11 November 2025   | Veronica Schmitt - Every Contact Leaves a Log                     |  [Presentation](https://youtu.be/hLdGW_TZKYM?si=I_WQ7jNtpY4imgVx)  |
 | 2 February 2021    | Keith Cottenden                                                           | [presentation](presentations/prev/BCS_IoT_Presentation_-_Keith_Cottenden.pdf )  |
 | 7 January 2021     | Dr. Harjinder Singh Lallie                                                | [presentation](https://www.youtube.com/watch?v=QMp3bZG-R8I)  |
 | 15 December 2020   | Stewart Garrick                                                           | [presentation]  |
